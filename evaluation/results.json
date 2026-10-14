@@ -1,0 +1,2753 @@
+[
+  {
+    "name": "small_A_0",
+    "group": "A",
+    "n": 6,
+    "capacity": 202008,
+    "budget": 134254,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.03682120004668832,
+      "peak_mb": 5.39,
+      "output": "small_A_0.15_solver.out",
+      "bytes": 182687,
+      "compress_ns": 133156,
+      "restore_ns": 2977,
+      "cost": 18579105
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 20030049,
+      "bytes": 198269,
+      "compress_ns": 107620
+    },
+    "greedy_improvement_pct": 7.2438364978538,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.031745799991767853,
+      "peak_mb": 4.8,
+      "output": "small_A_0.15_baseline.out",
+      "bytes": 182687,
+      "compress_ns": 133156,
+      "restore_ns": 2977,
+      "cost": 18579105
+    },
+    "reference": {
+      "status": 0,
+      "cost": 18579105,
+      "tie_key": [
+        18579105,
+        182687,
+        133156,
+        2977,
+        [
+          1,
+          0,
+          3,
+          3,
+          3,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_A_1",
+    "group": "A",
+    "n": 6,
+    "capacity": 116602,
+    "budget": 44352,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.027690599963534623,
+      "peak_mb": 5.22,
+      "output": "small_A_1.15_solver.out",
+      "bytes": 107907,
+      "compress_ns": 43999,
+      "restore_ns": 794,
+      "cost": 10862011
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 11539012,
+      "bytes": 114553,
+      "compress_ns": 34005
+    },
+    "greedy_improvement_pct": 5.867062102023986,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02628229995025322,
+      "peak_mb": 4.95,
+      "output": "small_A_1.15_baseline.out",
+      "bytes": 107907,
+      "compress_ns": 43999,
+      "restore_ns": 794,
+      "cost": 10862011
+    },
+    "reference": {
+      "status": 0,
+      "cost": 10862011,
+      "tie_key": [
+        10862011,
+        107907,
+        43999,
+        794,
+        [
+          1,
+          2,
+          2,
+          2,
+          2,
+          3
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_A_2",
+    "group": "A",
+    "n": 6,
+    "capacity": 230406,
+    "budget": 87210,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.03132080001523718,
+      "peak_mb": 3.92,
+      "output": "small_A_2.15_solver.out",
+      "bytes": 223252,
+      "compress_ns": 86551,
+      "restore_ns": 1747,
+      "cost": 33041151
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 72728966,
+      "bytes": 218696,
+      "compress_ns": 72486
+    },
+    "greedy_improvement_pct": 54.56947511119572,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.025438299984671175,
+      "peak_mb": 4.59,
+      "output": "small_A_2.15_baseline.out",
+      "bytes": 223252,
+      "compress_ns": 86551,
+      "restore_ns": 1747,
+      "cost": 33041151
+    },
+    "reference": {
+      "status": 0,
+      "cost": 33041151,
+      "tie_key": [
+        33041151,
+        223252,
+        86551,
+        1747,
+        [
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_A_3",
+    "group": "A",
+    "n": 6,
+    "capacity": 163287,
+    "budget": 96772,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.0279181000078097,
+      "peak_mb": 5.32,
+      "output": "small_A_3.15_solver.out",
+      "bytes": 154061,
+      "compress_ns": 95502,
+      "restore_ns": 1777,
+      "cost": 16589771
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 23735342,
+      "bytes": 163017,
+      "compress_ns": 61761
+    },
+    "greedy_improvement_pct": 30.105195029420685,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02575349999824539,
+      "peak_mb": 5.03,
+      "output": "small_A_3.15_baseline.out",
+      "bytes": 154061,
+      "compress_ns": 95502,
+      "restore_ns": 1777,
+      "cost": 16589771
+    },
+    "reference": {
+      "status": 0,
+      "cost": 16589771,
+      "tie_key": [
+        16589771,
+        154061,
+        95502,
+        1777,
+        [
+          1,
+          3,
+          1,
+          0,
+          3,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_A_4",
+    "group": "A",
+    "n": 6,
+    "capacity": 367244,
+    "budget": 16019,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.028871099988464266,
+      "peak_mb": 5.24,
+      "output": "small_A_4.15_solver.out",
+      "bytes": 344150,
+      "compress_ns": 11554,
+      "restore_ns": 176,
+      "cost": 35261204
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 36476619,
+      "bytes": 356410,
+      "compress_ns": 5619
+    },
+    "greedy_improvement_pct": 3.3320385313123455,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02620379999279976,
+      "peak_mb": 5.22,
+      "output": "small_A_4.15_baseline.out",
+      "bytes": 344150,
+      "compress_ns": 11554,
+      "restore_ns": 176,
+      "cost": 35261204
+    },
+    "reference": {
+      "status": 0,
+      "cost": 35261204,
+      "tie_key": [
+        35261204,
+        344150,
+        11554,
+        176,
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_A_5",
+    "group": "A",
+    "n": 6,
+    "capacity": 146453,
+    "budget": 111731,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.02819360001012683,
+      "peak_mb": 5.2,
+      "output": "small_A_5.15_solver.out",
+      "bytes": 137736,
+      "compress_ns": 111313,
+      "restore_ns": 2324,
+      "cost": 13949573
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 14343728,
+      "bytes": 140000,
+      "compress_ns": 101253
+    },
+    "greedy_improvement_pct": 2.7479257833110053,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02694180002436042,
+      "peak_mb": 5.01,
+      "output": "small_A_5.15_baseline.out",
+      "bytes": 137736,
+      "compress_ns": 111313,
+      "restore_ns": 2324,
+      "cost": 13949573
+    },
+    "reference": {
+      "status": 0,
+      "cost": 13949573,
+      "tie_key": [
+        13949573,
+        137736,
+        111313,
+        2324,
+        [
+          3,
+          2,
+          3,
+          1,
+          1,
+          3
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_B_0",
+    "group": "B",
+    "n": 6,
+    "capacity": 202008,
+    "budget": 134254,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.02814890001900494,
+      "peak_mb": 5.07,
+      "output": "small_B_0.15_solver.out",
+      "bytes": 182391,
+      "compress_ns": 127510,
+      "restore_ns": 2532,
+      "cost": 54844810
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 59588320,
+      "bytes": 198269,
+      "compress_ns": 107620
+    },
+    "greedy_improvement_pct": 7.960469434278395,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.025084000022616237,
+      "peak_mb": 5.23,
+      "output": "small_B_0.15_baseline.out",
+      "bytes": 182391,
+      "compress_ns": 127510,
+      "restore_ns": 2532,
+      "cost": 54844810
+    },
+    "reference": {
+      "status": 0,
+      "cost": 54844810,
+      "tie_key": [
+        54844810,
+        182391,
+        127510,
+        2532,
+        [
+          3,
+          1,
+          2,
+          3,
+          3,
+          3
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_B_1",
+    "group": "B",
+    "n": 6,
+    "capacity": 116602,
+    "budget": 44352,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04365080001298338,
+      "peak_mb": 5.02,
+      "output": "small_B_1.15_solver.out",
+      "bytes": 107572,
+      "compress_ns": 44302,
+      "restore_ns": 834,
+      "cost": 32315902
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 34399905,
+      "bytes": 114553,
+      "compress_ns": 34005
+    },
+    "greedy_improvement_pct": 6.058164986211445,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.026036700000986457,
+      "peak_mb": 5.06,
+      "output": "small_B_1.15_baseline.out",
+      "bytes": 107572,
+      "compress_ns": 44302,
+      "restore_ns": 834,
+      "cost": 32315902
+    },
+    "reference": {
+      "status": 0,
+      "cost": 32315902,
+      "tie_key": [
+        32315902,
+        107572,
+        44302,
+        834,
+        [
+          3,
+          0,
+          2,
+          2,
+          2,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_B_2",
+    "group": "B",
+    "n": 6,
+    "capacity": 230406,
+    "budget": 87210,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.026812000025529414,
+      "peak_mb": 5.06,
+      "output": "small_B_2.15_solver.out",
+      "bytes": 204292,
+      "compress_ns": 86921,
+      "restore_ns": 1754,
+      "cost": 61374521
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 65681286,
+      "bytes": 218696,
+      "compress_ns": 72486
+    },
+    "greedy_improvement_pct": 6.557065584860808,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.025399899983312935,
+      "peak_mb": 5.1,
+      "output": "small_B_2.15_baseline.out",
+      "bytes": 204292,
+      "compress_ns": 86921,
+      "restore_ns": 1754,
+      "cost": 61374521
+    },
+    "reference": {
+      "status": 0,
+      "cost": 61374521,
+      "tie_key": [
+        61374521,
+        204292,
+        86921,
+        1754,
+        [
+          2,
+          2,
+          1,
+          1,
+          3,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_B_3",
+    "group": "B",
+    "n": 6,
+    "capacity": 163287,
+    "budget": 96772,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.029743999999482185,
+      "peak_mb": 5.05,
+      "output": "small_B_3.15_solver.out",
+      "bytes": 142155,
+      "compress_ns": 95515,
+      "restore_ns": 1845,
+      "cost": 42742015
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 48966861,
+      "bytes": 163017,
+      "compress_ns": 61761
+    },
+    "greedy_improvement_pct": 12.712364797081847,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.026333599991630763,
+      "peak_mb": 4.93,
+      "output": "small_B_3.15_baseline.out",
+      "bytes": 142155,
+      "compress_ns": 95515,
+      "restore_ns": 1845,
+      "cost": 42742015
+    },
+    "reference": {
+      "status": 0,
+      "cost": 42742015,
+      "tie_key": [
+        42742015,
+        142155,
+        95515,
+        1845,
+        [
+          2,
+          2,
+          3,
+          1,
+          2,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_B_4",
+    "group": "B",
+    "n": 6,
+    "capacity": 367244,
+    "budget": 16019,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.028490600001532584,
+      "peak_mb": 5.23,
+      "output": "small_B_4.15_solver.out",
+      "bytes": 339571,
+      "compress_ns": 13580,
+      "restore_ns": 181,
+      "cost": 101884880
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 106928619,
+      "bytes": 356410,
+      "compress_ns": 5619
+    },
+    "greedy_improvement_pct": 4.716921481984164,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.026152700011152774,
+      "peak_mb": 4.99,
+      "output": "small_B_4.15_baseline.out",
+      "bytes": 339571,
+      "compress_ns": 13580,
+      "restore_ns": 181,
+      "cost": 101884880
+    },
+    "reference": {
+      "status": 0,
+      "cost": 101884880,
+      "tie_key": [
+        101884880,
+        339571,
+        13580,
+        181,
+        [
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_B_5",
+    "group": "B",
+    "n": 6,
+    "capacity": 146453,
+    "budget": 111731,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.02784059999976307,
+      "peak_mb": 5.44,
+      "output": "small_B_5.15_solver.out",
+      "bytes": 133520,
+      "compress_ns": 111483,
+      "restore_ns": 2450,
+      "cost": 40167483
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 42101253,
+      "bytes": 140000,
+      "compress_ns": 101253
+    },
+    "greedy_improvement_pct": 4.593141206509935,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02489409997360781,
+      "peak_mb": 4.93,
+      "output": "small_B_5.15_baseline.out",
+      "bytes": 133520,
+      "compress_ns": 111483,
+      "restore_ns": 2450,
+      "cost": 40167483
+    },
+    "reference": {
+      "status": 0,
+      "cost": 40167483,
+      "tie_key": [
+        40167483,
+        133520,
+        111483,
+        2450,
+        [
+          3,
+          2,
+          2,
+          3,
+          2,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_C_0",
+    "group": "C",
+    "n": 6,
+    "capacity": 283354,
+    "budget": 46445,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.02689540002029389,
+      "peak_mb": 5.22,
+      "output": "small_C_0.15_solver.out",
+      "bytes": 265274,
+      "compress_ns": 46423,
+      "restore_ns": 769,
+      "cost": 55588350
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 103987300,
+      "bytes": 280651,
+      "compress_ns": 30750
+    },
+    "greedy_improvement_pct": 46.54313555597655,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02694279997376725,
+      "peak_mb": 5.24,
+      "output": "small_C_0.15_baseline.out",
+      "bytes": 265274,
+      "compress_ns": 46423,
+      "restore_ns": 769,
+      "cost": 55588350
+    },
+    "reference": {
+      "status": 0,
+      "cost": 55588350,
+      "tie_key": [
+        55588350,
+        265274,
+        46423,
+        769,
+        [
+          1,
+          0,
+          2,
+          0,
+          0,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_C_1",
+    "group": "C",
+    "n": 6,
+    "capacity": 162912,
+    "budget": 5650,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.02749429998220876,
+      "peak_mb": 4.95,
+      "output": "small_C_1.15_solver.out",
+      "bytes": 154816,
+      "compress_ns": 5591,
+      "restore_ns": 79,
+      "cost": 31436740
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 31950550,
+      "bytes": 158758,
+      "compress_ns": 2824
+    },
+    "greedy_improvement_pct": 1.6081413309004071,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02543889998923987,
+      "peak_mb": 5.09,
+      "output": "small_C_1.15_baseline.out",
+      "bytes": 154816,
+      "compress_ns": 5591,
+      "restore_ns": 79,
+      "cost": 31436740
+    },
+    "reference": {
+      "status": 0,
+      "cost": 31436740,
+      "tie_key": [
+        31436740,
+        154816,
+        5591,
+        79,
+        [
+          0,
+          2,
+          0,
+          1,
+          2,
+          0
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_C_2",
+    "group": "C",
+    "n": 6,
+    "capacity": 229684,
+    "budget": 70547,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.028048999956808984,
+      "peak_mb": 5.26,
+      "output": "small_C_2.15_solver.out",
+      "bytes": 228646,
+      "compress_ns": 57554,
+      "restore_ns": 1020,
+      "cost": 112476000
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 307071700,
+      "bytes": 221385,
+      "compress_ns": 33550
+    },
+    "greedy_improvement_pct": 63.37142107201673,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02579039998818189,
+      "peak_mb": 5.13,
+      "output": "small_C_2.15_baseline.out",
+      "bytes": 228646,
+      "compress_ns": 57554,
+      "restore_ns": 1020,
+      "cost": 112476000
+    },
+    "reference": {
+      "status": 0,
+      "cost": 112476000,
+      "tie_key": [
+        112476000,
+        228646,
+        57554,
+        1020,
+        [
+          1,
+          0,
+          2,
+          3,
+          1,
+          1
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_C_3",
+    "group": "C",
+    "n": 6,
+    "capacity": 166974,
+    "budget": 9995,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.027985299995634705,
+      "peak_mb": 5.37,
+      "output": "small_C_3.15_solver.out",
+      "bytes": 160073,
+      "compress_ns": 9881,
+      "restore_ns": 124,
+      "cost": 32518160
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 32518160,
+      "bytes": 160073,
+      "compress_ns": 9881
+    },
+    "greedy_improvement_pct": 0.0,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02601570001570508,
+      "peak_mb": 5.23,
+      "output": "small_C_3.15_baseline.out",
+      "bytes": 160073,
+      "compress_ns": 9881,
+      "restore_ns": 124,
+      "cost": 32518160
+    },
+    "reference": {
+      "status": 0,
+      "cost": 32518160,
+      "tie_key": [
+        32518160,
+        160073,
+        9881,
+        124,
+        [
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_C_4",
+    "group": "C",
+    "n": 6,
+    "capacity": 454987,
+    "budget": 25767,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.027768800035119057,
+      "peak_mb": 5.22,
+      "output": "small_C_4.15_solver.out",
+      "bytes": 420810,
+      "compress_ns": 16002,
+      "restore_ns": 210,
+      "cost": 84965700
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 91175600,
+      "bytes": 454323,
+      "compress_ns": 6220
+    },
+    "greedy_improvement_pct": 6.810923097846354,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02828829997451976,
+      "peak_mb": 4.96,
+      "output": "small_C_4.15_baseline.out",
+      "bytes": 420810,
+      "compress_ns": 16002,
+      "restore_ns": 210,
+      "cost": 84965700
+    },
+    "reference": {
+      "status": 0,
+      "cost": 84965700,
+      "tie_key": [
+        84965700,
+        420810,
+        16002,
+        210,
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          1
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_C_5",
+    "group": "C",
+    "n": 6,
+    "capacity": 257873,
+    "budget": 85268,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.028770199976861477,
+      "peak_mb": 4.92,
+      "output": "small_C_5.15_solver.out",
+      "bytes": 257461,
+      "compress_ns": 75370,
+      "restore_ns": 1128,
+      "cost": 62144700
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 106622650,
+      "bytes": 245369,
+      "compress_ns": 43297
+    },
+    "greedy_improvement_pct": 41.71529220104734,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02631340001244098,
+      "peak_mb": 4.94,
+      "output": "small_C_5.15_baseline.out",
+      "bytes": 257461,
+      "compress_ns": 75370,
+      "restore_ns": 1128,
+      "cost": 62144700
+    },
+    "reference": {
+      "status": 0,
+      "cost": 62144700,
+      "tie_key": [
+        62144700,
+        257461,
+        75370,
+        1128,
+        [
+          3,
+          0,
+          0,
+          1,
+          1,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_D_0",
+    "group": "D",
+    "n": 6,
+    "capacity": 202008,
+    "budget": 134254,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.02685859997291118,
+      "peak_mb": 5.21,
+      "output": "small_D_0.15_solver.out",
+      "bytes": 182687,
+      "compress_ns": 133156,
+      "restore_ns": 2977,
+      "cost": 182997405
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 198472149,
+      "bytes": 198269,
+      "compress_ns": 107620
+    },
+    "greedy_improvement_pct": 7.796934772948924,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.025820499984547496,
+      "peak_mb": 4.97,
+      "output": "small_D_0.15_baseline.out",
+      "bytes": 182687,
+      "compress_ns": 133156,
+      "restore_ns": 2977,
+      "cost": 182997405
+    },
+    "reference": {
+      "status": 0,
+      "cost": 182997405,
+      "tie_key": [
+        182997405,
+        182687,
+        133156,
+        2977,
+        [
+          1,
+          0,
+          3,
+          3,
+          3,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_D_1",
+    "group": "D",
+    "n": 6,
+    "capacity": 116602,
+    "budget": 44352,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.02704059996176511,
+      "peak_mb": 4.99,
+      "output": "small_D_1.15_solver.out",
+      "bytes": 107572,
+      "compress_ns": 44302,
+      "restore_ns": 834,
+      "cost": 107726909
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 114636712,
+      "bytes": 114553,
+      "compress_ns": 34005
+    },
+    "greedy_improvement_pct": 6.0275655847491505,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.025413000024855137,
+      "peak_mb": 5.66,
+      "output": "small_D_1.15_baseline.out",
+      "bytes": 107572,
+      "compress_ns": 44302,
+      "restore_ns": 834,
+      "cost": 107726909
+    },
+    "reference": {
+      "status": 0,
+      "cost": 107726909,
+      "tie_key": [
+        107726909,
+        107572,
+        44302,
+        834,
+        [
+          3,
+          0,
+          2,
+          2,
+          2,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_D_2",
+    "group": "D",
+    "n": 6,
+    "capacity": 230406,
+    "budget": 87210,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.027626399998553097,
+      "peak_mb": 5.21,
+      "output": "small_D_2.15_solver.out",
+      "bytes": 223252,
+      "compress_ns": 86551,
+      "restore_ns": 1747,
+      "cost": 233967951
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 269555366,
+      "bytes": 218696,
+      "compress_ns": 72486
+    },
+    "greedy_improvement_pct": 13.202265467050655,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.025884100003167987,
+      "peak_mb": 5.02,
+      "output": "small_D_2.15_baseline.out",
+      "bytes": 223252,
+      "compress_ns": 86551,
+      "restore_ns": 1747,
+      "cost": 233967951
+    },
+    "reference": {
+      "status": 0,
+      "cost": 233967951,
+      "tie_key": [
+        233967951,
+        223252,
+        86551,
+        1747,
+        [
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_D_3",
+    "group": "D",
+    "n": 6,
+    "capacity": 163287,
+    "budget": 96772,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.027786399994511157,
+      "peak_mb": 5.22,
+      "output": "small_D_3.15_solver.out",
+      "bytes": 147104,
+      "compress_ns": 96650,
+      "restore_ns": 1832,
+      "cost": 152048719
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 170450642,
+      "bytes": 163017,
+      "compress_ns": 61761
+    },
+    "greedy_improvement_pct": 10.79604205890876,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02639910002471879,
+      "peak_mb": 5.05,
+      "output": "small_D_3.15_baseline.out",
+      "bytes": 147104,
+      "compress_ns": 96650,
+      "restore_ns": 1832,
+      "cost": 152048719
+    },
+    "reference": {
+      "status": 0,
+      "cost": 152048719,
+      "tie_key": [
+        152048719,
+        147104,
+        96650,
+        1832,
+        [
+          3,
+          3,
+          2,
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_D_4",
+    "group": "D",
+    "n": 6,
+    "capacity": 367244,
+    "budget": 16019,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.026855100004468113,
+      "peak_mb": 5.21,
+      "output": "small_D_4.15_solver.out",
+      "bytes": 339571,
+      "compress_ns": 13580,
+      "restore_ns": 181,
+      "cost": 342755580
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 357245619,
+      "bytes": 356410,
+      "compress_ns": 5619
+    },
+    "greedy_improvement_pct": 4.056043861520385,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.025878700020257384,
+      "peak_mb": 5.22,
+      "output": "small_D_4.15_baseline.out",
+      "bytes": 339571,
+      "compress_ns": 13580,
+      "restore_ns": 181,
+      "cost": 342755580
+    },
+    "reference": {
+      "status": 0,
+      "cost": 342755580,
+      "tie_key": [
+        342755580,
+        339571,
+        13580,
+        181,
+        [
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_D_5",
+    "group": "D",
+    "n": 6,
+    "capacity": 146453,
+    "budget": 111731,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04465380002511665,
+      "peak_mb": 4.51,
+      "output": "small_D_5.15_solver.out",
+      "bytes": 133520,
+      "compress_ns": 111483,
+      "restore_ns": 2450,
+      "cost": 134306118
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 140343728,
+      "bytes": 140000,
+      "compress_ns": 101253
+    },
+    "greedy_improvement_pct": 4.302016261104308,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.0263668000116013,
+      "peak_mb": 4.62,
+      "output": "small_D_5.15_baseline.out",
+      "bytes": 133520,
+      "compress_ns": 111483,
+      "restore_ns": 2450,
+      "cost": 134306118
+    },
+    "reference": {
+      "status": 0,
+      "cost": 134306118,
+      "tie_key": [
+        134306118,
+        133520,
+        111483,
+        2450,
+        [
+          3,
+          2,
+          2,
+          3,
+          2,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_E_0",
+    "group": "E",
+    "n": 6,
+    "capacity": 202008,
+    "budget": 134254,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04381410003406927,
+      "peak_mb": 4.39,
+      "output": "small_E_0.15_solver.out",
+      "bytes": 182687,
+      "compress_ns": 133156,
+      "restore_ns": 2977,
+      "cost": 56314909
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 60652429,
+      "bytes": 198269,
+      "compress_ns": 107620
+    },
+    "greedy_improvement_pct": 7.151436589621167,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.029520199983380735,
+      "peak_mb": 5.02,
+      "output": "small_E_0.15_baseline.out",
+      "bytes": 182687,
+      "compress_ns": 133156,
+      "restore_ns": 2977,
+      "cost": 56314909
+    },
+    "reference": {
+      "status": 0,
+      "cost": 56314909,
+      "tie_key": [
+        56314909,
+        182687,
+        133156,
+        2977,
+        [
+          1,
+          0,
+          3,
+          3,
+          3,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_E_1",
+    "group": "E",
+    "n": 6,
+    "capacity": 116602,
+    "budget": 44352,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04362609999952838,
+      "peak_mb": 5.99,
+      "output": "small_E_1.15_solver.out",
+      "bytes": 107572,
+      "compress_ns": 44302,
+      "restore_ns": 834,
+      "cost": 32825227
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 34755657,
+      "bytes": 114553,
+      "compress_ns": 34005
+    },
+    "greedy_improvement_pct": 5.554290054134209,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.039183199987746775,
+      "peak_mb": 5.95,
+      "output": "small_E_1.15_baseline.out",
+      "bytes": 107572,
+      "compress_ns": 44302,
+      "restore_ns": 834,
+      "cost": 32825227
+    },
+    "reference": {
+      "status": 0,
+      "cost": 32825227,
+      "tie_key": [
+        32825227,
+        107572,
+        44302,
+        834,
+        [
+          3,
+          0,
+          2,
+          2,
+          2,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_E_2",
+    "group": "E",
+    "n": 6,
+    "capacity": 230406,
+    "budget": 87210,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.030738300003577024,
+      "peak_mb": 4.57,
+      "output": "small_E_2.15_solver.out",
+      "bytes": 223252,
+      "compress_ns": 86551,
+      "restore_ns": 1747,
+      "cost": 78470510
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 117120540,
+      "bytes": 218696,
+      "compress_ns": 72486
+    },
+    "greedy_improvement_pct": 33.000214992178144,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.025037200015503913,
+      "peak_mb": 3.65,
+      "output": "small_E_2.15_baseline.out",
+      "bytes": 223252,
+      "compress_ns": 86551,
+      "restore_ns": 1747,
+      "cost": 78470510
+    },
+    "reference": {
+      "status": 0,
+      "cost": 78470510,
+      "tie_key": [
+        78470510,
+        223252,
+        86551,
+        1747,
+        [
+          1,
+          3,
+          1,
+          0,
+          3,
+          0
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_E_3",
+    "group": "E",
+    "n": 6,
+    "capacity": 163287,
+    "budget": 96772,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.027906899980735034,
+      "peak_mb": 5.24,
+      "output": "small_E_3.15_solver.out",
+      "bytes": 154061,
+      "compress_ns": 95502,
+      "restore_ns": 1777,
+      "cost": 48261489
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 56894591,
+      "bytes": 163017,
+      "compress_ns": 61761
+    },
+    "greedy_improvement_pct": 15.173853697269745,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02465540001867339,
+      "peak_mb": 5.57,
+      "output": "small_E_3.15_baseline.out",
+      "bytes": 154061,
+      "compress_ns": 95502,
+      "restore_ns": 1777,
+      "cost": 48261489
+    },
+    "reference": {
+      "status": 0,
+      "cost": 48261489,
+      "tie_key": [
+        48261489,
+        154061,
+        95502,
+        1777,
+        [
+          1,
+          3,
+          1,
+          0,
+          3,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_E_4",
+    "group": "E",
+    "n": 6,
+    "capacity": 367244,
+    "budget": 16019,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.027721500024199486,
+      "peak_mb": 5.21,
+      "output": "small_E_4.15_solver.out",
+      "bytes": 344150,
+      "compress_ns": 11554,
+      "restore_ns": 176,
+      "cost": 104195190
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 107809190,
+      "bytes": 356410,
+      "compress_ns": 5619
+    },
+    "greedy_improvement_pct": 3.352218860006276,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.025344100024085492,
+      "peak_mb": 4.95,
+      "output": "small_E_4.15_baseline.out",
+      "bytes": 344150,
+      "compress_ns": 11554,
+      "restore_ns": 176,
+      "cost": 104195190
+    },
+    "reference": {
+      "status": 0,
+      "cost": 104195190,
+      "tie_key": [
+        104195190,
+        344150,
+        11554,
+        176,
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_E_5",
+    "group": "E",
+    "n": 6,
+    "capacity": 146453,
+    "budget": 111731,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.028333700029179454,
+      "peak_mb": 5.24,
+      "output": "small_E_5.15_solver.out",
+      "bytes": 133520,
+      "compress_ns": 111483,
+      "restore_ns": 2450,
+      "cost": 41845465
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 43255005,
+      "bytes": 140000,
+      "compress_ns": 101253
+    },
+    "greedy_improvement_pct": 3.2586749209715733,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.025128700013738126,
+      "peak_mb": 5.22,
+      "output": "small_E_5.15_baseline.out",
+      "bytes": 133520,
+      "compress_ns": 111483,
+      "restore_ns": 2450,
+      "cost": 41845465
+    },
+    "reference": {
+      "status": 0,
+      "cost": 41845465,
+      "tie_key": [
+        41845465,
+        133520,
+        111483,
+        2450,
+        [
+          3,
+          2,
+          2,
+          3,
+          2,
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_F_0",
+    "group": "F",
+    "n": 6,
+    "capacity": 275101,
+    "budget": 45093,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.029975400015246123,
+      "peak_mb": 4.58,
+      "output": "small_F_0.15_solver.out",
+      "bytes": 271677,
+      "compress_ns": 38982,
+      "restore_ns": 594,
+      "cost": 0
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 0,
+      "bytes": 272494,
+      "compress_ns": 39193
+    },
+    "greedy_improvement_pct": 0.0,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02884390001418069,
+      "peak_mb": 4.57,
+      "output": "small_F_0.15_baseline.out",
+      "bytes": 271677,
+      "compress_ns": 38982,
+      "restore_ns": 594,
+      "cost": 0
+    },
+    "reference": {
+      "status": 0,
+      "cost": 0,
+      "tie_key": [
+        0,
+        271677,
+        38982,
+        594,
+        [
+          1,
+          1,
+          2,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_F_1",
+    "group": "F",
+    "n": 6,
+    "capacity": 158167,
+    "budget": 5486,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.02726619999157265,
+      "peak_mb": 5.14,
+      "output": "small_F_1.15_solver.out",
+      "bytes": 151855,
+      "compress_ns": 5466,
+      "restore_ns": 99,
+      "cost": 0
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 0,
+      "bytes": 155238,
+      "compress_ns": 5272
+    },
+    "greedy_improvement_pct": 0.0,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02585110004292801,
+      "peak_mb": 4.89,
+      "output": "small_F_1.15_baseline.out",
+      "bytes": 151855,
+      "compress_ns": 5466,
+      "restore_ns": 99,
+      "cost": 0
+    },
+    "reference": {
+      "status": 0,
+      "cost": 0,
+      "tie_key": [
+        0,
+        151855,
+        5466,
+        99,
+        [
+          0,
+          1,
+          2,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_F_2",
+    "group": "F",
+    "n": 6,
+    "capacity": 222995,
+    "budget": 68493,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.026887399959377944,
+      "peak_mb": 4.91,
+      "output": "small_F_2.15_solver.out",
+      "bytes": 201851,
+      "compress_ns": 67889,
+      "restore_ns": 1213,
+      "cost": 0
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 0,
+      "bytes": 221385,
+      "compress_ns": 33550
+    },
+    "greedy_improvement_pct": 0.0,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.02494879998266697,
+      "peak_mb": 4.43,
+      "output": "small_F_2.15_baseline.out",
+      "bytes": 201851,
+      "compress_ns": 67889,
+      "restore_ns": 1213,
+      "cost": 0
+    },
+    "reference": {
+      "status": 0,
+      "cost": 0,
+      "tie_key": [
+        0,
+        201851,
+        67889,
+        1213,
+        [
+          2,
+          0,
+          2,
+          3,
+          2,
+          0
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_F_3",
+    "group": "F",
+    "n": 6,
+    "capacity": 162111,
+    "budget": 9704,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.02731320000020787,
+      "peak_mb": 4.26,
+      "output": "small_F_3.15_solver.out",
+      "bytes": 162111,
+      "compress_ns": 9704,
+      "restore_ns": 134,
+      "cost": 0
+    },
+    "greedy": {
+      "status": "infeasible",
+      "cost": 0,
+      "bytes": 166557,
+      "compress_ns": 8332
+    },
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.026743600028567016,
+      "peak_mb": 4.21,
+      "output": "small_F_3.15_baseline.out",
+      "bytes": 162111,
+      "compress_ns": 9704,
+      "restore_ns": 134,
+      "cost": 0
+    },
+    "reference": {
+      "status": 0,
+      "cost": 0,
+      "tie_key": [
+        0,
+        162111,
+        9704,
+        134,
+        [
+          1,
+          0,
+          0,
+          1,
+          3,
+          1
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_F_4",
+    "group": "F",
+    "n": 6,
+    "capacity": 441735,
+    "budget": 25017,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.030897900054696947,
+      "peak_mb": 4.87,
+      "output": "small_F_4.15_solver.out",
+      "bytes": 409562,
+      "compress_ns": 22049,
+      "restore_ns": 284,
+      "cost": 0
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 0,
+      "bytes": 431510,
+      "compress_ns": 12706
+    },
+    "greedy_improvement_pct": 0.0,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.0284646000363864,
+      "peak_mb": 4.95,
+      "output": "small_F_4.15_baseline.out",
+      "bytes": 409562,
+      "compress_ns": 22049,
+      "restore_ns": 284,
+      "cost": 0
+    },
+    "reference": {
+      "status": 0,
+      "cost": 0,
+      "tie_key": [
+        0,
+        409562,
+        22049,
+        284,
+        [
+          1,
+          0,
+          1,
+          1,
+          0,
+          1
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "small_F_5",
+    "group": "F",
+    "n": 6,
+    "capacity": 250363,
+    "budget": 82785,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.029902200039941818,
+      "peak_mb": 4.29,
+      "output": "small_F_5.15_solver.out",
+      "bytes": 224500,
+      "compress_ns": 76937,
+      "restore_ns": 1559,
+      "cost": 0
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 0,
+      "bytes": 245369,
+      "compress_ns": 43297
+    },
+    "greedy_improvement_pct": 0.0,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.028170700010377914,
+      "peak_mb": 3.98,
+      "output": "small_F_5.15_baseline.out",
+      "bytes": 224500,
+      "compress_ns": 76937,
+      "restore_ns": 1559,
+      "cost": 0
+    },
+    "reference": {
+      "status": 0,
+      "cost": 0,
+      "tie_key": [
+        0,
+        224500,
+        76937,
+        1559,
+        [
+          2,
+          0,
+          3,
+          2,
+          1,
+          3
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "medium_B_0",
+    "group": "B",
+    "n": 80,
+    "capacity": 2123667,
+    "budget": 1627449,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.06265680002979934,
+      "peak_mb": 6.08,
+      "output": "medium_B_0.15_solver.out",
+      "bytes": 1494037,
+      "compress_ns": 1627174,
+      "restore_ns": 32206,
+      "cost": 449838274
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 635789264,
+      "bytes": 2116849,
+      "compress_ns": 734564
+    },
+    "greedy_improvement_pct": 29.24726800671488,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.10355259996140376,
+      "peak_mb": 5.98,
+      "output": "medium_B_0.15_baseline.out"
+    },
+    "reference": {
+      "status": 0,
+      "cost": 449787433,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.011303339370977935
+  },
+  {
+    "name": "medium_B_1",
+    "group": "B",
+    "n": 80,
+    "capacity": 2270103,
+    "budget": 1622027,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.059214400011114776,
+      "peak_mb": 4.36,
+      "output": "medium_B_1.15_solver.out",
+      "bytes": 1347743,
+      "compress_ns": 1621923,
+      "restore_ns": 30656,
+      "cost": 405944823
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 681416606,
+      "bytes": 2269424,
+      "compress_ns": 589406
+    },
+    "greedy_improvement_pct": 40.42633839187653,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.11359510000329465,
+      "peak_mb": 5.99,
+      "output": "medium_B_1.15_baseline.out"
+    },
+    "reference": {
+      "status": 0,
+      "cost": 405895700,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.01210237014090073
+  },
+  {
+    "name": "medium_B_2",
+    "group": "B",
+    "n": 80,
+    "capacity": 2574560,
+    "budget": 1749658,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.06560109998099506,
+      "peak_mb": 5.98,
+      "output": "medium_B_2.15_solver.out",
+      "bytes": 1633535,
+      "compress_ns": 1747768,
+      "restore_ns": 32741,
+      "cost": 491808268
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 773058914,
+      "bytes": 2574538,
+      "compress_ns": 697514
+    },
+    "greedy_improvement_pct": 36.38152809657661,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.10175139998318627,
+      "peak_mb": 5.86,
+      "output": "medium_B_2.15_baseline.out"
+    },
+    "reference": {
+      "status": 0,
+      "cost": 491587480,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.04491326752259842
+  },
+  {
+    "name": "medium_C_0",
+    "group": "C",
+    "n": 80,
+    "capacity": 2668924,
+    "budget": 760909,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.05064129998208955,
+      "peak_mb": 4.6,
+      "output": "medium_C_0.15_solver.out",
+      "bytes": 2466688,
+      "compress_ns": 749120,
+      "restore_ns": 13207,
+      "cost": 540651960
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 1221728630,
+      "bytes": 2667615,
+      "compress_ns": 347421
+    },
+    "greedy_improvement_pct": 55.74696812990295,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.08122689998708665,
+      "peak_mb": 5.98,
+      "output": "medium_C_0.15_baseline.out",
+      "bytes": 2466688,
+      "compress_ns": 749120,
+      "restore_ns": 13207,
+      "cost": 540651960
+    },
+    "reference": {
+      "status": 0,
+      "cost": 540651960,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "medium_C_1",
+    "group": "C",
+    "n": 80,
+    "capacity": 3231703,
+    "budget": 782794,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.05169360002037138,
+      "peak_mb": 4.6,
+      "output": "medium_C_1.15_solver.out",
+      "bytes": 2770659,
+      "compress_ns": 780291,
+      "restore_ns": 14727,
+      "cost": 603605300
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 1739059610,
+      "bytes": 3192377,
+      "compress_ns": 272772
+    },
+    "greedy_improvement_pct": 65.29128176348135,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.07181549997767434,
+      "peak_mb": 5.85,
+      "output": "medium_C_1.15_baseline.out"
+    },
+    "reference": {
+      "status": 0,
+      "cost": 601403760,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.36606688325327397
+  },
+  {
+    "name": "medium_C_2",
+    "group": "C",
+    "n": 80,
+    "capacity": 3046737,
+    "budget": 944337,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.05377650004811585,
+      "peak_mb": 4.59,
+      "output": "medium_C_2.15_solver.out",
+      "bytes": 2670569,
+      "compress_ns": 934986,
+      "restore_ns": 17672,
+      "cost": 594195990
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 1503356670,
+      "bytes": 3032852,
+      "compress_ns": 347183
+    },
+    "greedy_improvement_pct": 60.47538140100845,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.08319129998562858,
+      "peak_mb": 5.98,
+      "output": "medium_C_2.15_baseline.out",
+      "bytes": 2670569,
+      "compress_ns": 934986,
+      "restore_ns": 17672,
+      "cost": 594195990
+    },
+    "reference": {
+      "status": 0,
+      "cost": 594195990,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "medium_D_0",
+    "group": "D",
+    "n": 80,
+    "capacity": 2123667,
+    "budget": 1627449,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.05510350002441555,
+      "peak_mb": 4.27,
+      "output": "medium_D_0.15_solver.out",
+      "bytes": 1511196,
+      "compress_ns": 1627426,
+      "restore_ns": 32155,
+      "cost": 1587599883
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 2189835864,
+      "bytes": 2116849,
+      "compress_ns": 734564
+    },
+    "greedy_improvement_pct": 27.50142103801073,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.09315760002937168,
+      "peak_mb": 5.86,
+      "output": "medium_D_0.15_baseline.out"
+    },
+    "reference": {
+      "status": 0,
+      "cost": 1582931910,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.2948941120278509
+  },
+  {
+    "name": "medium_D_1",
+    "group": "D",
+    "n": 80,
+    "capacity": 2270103,
+    "budget": 1622027,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.057294400001410395,
+      "peak_mb": 4.01,
+      "output": "medium_D_1.15_solver.out",
+      "bytes": 1425998,
+      "compress_ns": 1621062,
+      "restore_ns": 30590,
+      "cost": 1517878383
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 2392824542,
+      "bytes": 2269424,
+      "compress_ns": 589406
+    },
+    "greedy_improvement_pct": 36.56541228337167,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.11615640000673011,
+      "peak_mb": 5.99,
+      "output": "medium_D_1.15_baseline.out"
+    },
+    "reference": {
+      "status": 0,
+      "cost": 1511773448,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.4038260499995235
+  },
+  {
+    "name": "medium_D_2",
+    "group": "D",
+    "n": 80,
+    "capacity": 2574560,
+    "budget": 1749658,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.05390130000887439,
+      "peak_mb": 3.57,
+      "output": "medium_D_2.15_solver.out",
+      "bytes": 1782594,
+      "compress_ns": 1749236,
+      "restore_ns": 32412,
+      "cost": 1946769300
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 2769914072,
+      "bytes": 2574538,
+      "compress_ns": 697514
+    },
+    "greedy_improvement_pct": 29.71733962150144,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.10604109999258071,
+      "peak_mb": 5.87,
+      "output": "medium_D_2.15_baseline.out"
+    },
+    "reference": {
+      "status": 0,
+      "cost": 1939951190,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.35145781167824125
+  },
+  {
+    "name": "medium_E_0",
+    "group": "E",
+    "n": 80,
+    "capacity": 2123667,
+    "budget": 1627449,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.05151259998092428,
+      "peak_mb": 4.27,
+      "output": "medium_E_0.15_solver.out",
+      "bytes": 1604238,
+      "compress_ns": 1626966,
+      "restore_ns": 31957,
+      "cost": 511677255
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 714652640,
+      "bytes": 2116849,
+      "compress_ns": 734564
+    },
+    "greedy_improvement_pct": 28.401963924739718,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.10309759998926893,
+      "peak_mb": 5.98,
+      "output": "medium_E_0.15_baseline.out"
+    },
+    "reference": {
+      "status": 0,
+      "cost": 510650571,
+      "mip_gap": 8.872009543524477e-08
+    },
+    "gap_pct": 0.2010541176894131
+  },
+  {
+    "name": "medium_E_1",
+    "group": "E",
+    "n": 80,
+    "capacity": 2270103,
+    "budget": 1622027,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.053903099964372814,
+      "peak_mb": 4.06,
+      "output": "medium_E_1.15_solver.out",
+      "bytes": 1544330,
+      "compress_ns": 1621908,
+      "restore_ns": 31035,
+      "cost": 499908521
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 809532396,
+      "bytes": 2269424,
+      "compress_ns": 589406
+    },
+    "greedy_improvement_pct": 38.24724946523326,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.10838480002712458,
+      "peak_mb": 5.86,
+      "output": "medium_E_1.15_baseline.out"
+    },
+    "reference": {
+      "status": 0,
+      "cost": 499145051,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.15295553836914633
+  },
+  {
+    "name": "medium_E_2",
+    "group": "E",
+    "n": 80,
+    "capacity": 2574560,
+    "budget": 1749658,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.06345949997194111,
+      "peak_mb": 6.0,
+      "output": "medium_E_2.15_solver.out",
+      "bytes": 2014909,
+      "compress_ns": 1747456,
+      "restore_ns": 32717,
+      "cost": 644141248
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 974015098,
+      "bytes": 2574538,
+      "compress_ns": 697514
+    },
+    "greedy_improvement_pct": 33.867426765493526,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.10391180001897737,
+      "peak_mb": 5.85,
+      "output": "medium_E_2.15_baseline.out"
+    },
+    "reference": {
+      "status": 0,
+      "cost": 644141248,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "edge_invalid_ties",
+    "group": "F",
+    "n": 1,
+    "capacity": 100,
+    "budget": 0,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.032802100002299994,
+      "peak_mb": 3.22,
+      "output": "edge_invalid_ties.15_solver.out",
+      "bytes": 100,
+      "compress_ns": 0,
+      "restore_ns": 0,
+      "cost": 0
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 0,
+      "bytes": 100,
+      "compress_ns": 0
+    },
+    "greedy_improvement_pct": 0.0,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.027574900013860315,
+      "peak_mb": 4.29,
+      "output": "edge_invalid_ties.15_baseline.out",
+      "bytes": 100,
+      "compress_ns": 0,
+      "restore_ns": 0,
+      "cost": 0
+    },
+    "reference": {
+      "status": 0,
+      "cost": 0,
+      "tie_key": [
+        0,
+        100,
+        0,
+        0,
+        [
+          2
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "edge_broken_chain",
+    "group": "F",
+    "n": 1,
+    "capacity": 100,
+    "budget": 0,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.032139700022526085,
+      "peak_mb": 4.79,
+      "output": "edge_broken_chain.15_solver.out",
+      "bytes": 100,
+      "compress_ns": 0,
+      "restore_ns": 0,
+      "cost": 100
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 100,
+      "bytes": 100,
+      "compress_ns": 0
+    },
+    "greedy_improvement_pct": 0.0,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.029579899972304702,
+      "peak_mb": 4.17,
+      "output": "edge_broken_chain.15_baseline.out",
+      "bytes": 100,
+      "compress_ns": 0,
+      "restore_ns": 0,
+      "cost": 100
+    },
+    "reference": {
+      "status": 0,
+      "cost": 100,
+      "tie_key": [
+        100,
+        100,
+        0,
+        0,
+        [
+          0
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "edge_int64_totals",
+    "group": "F",
+    "n": 3,
+    "capacity": 5000000000000000000,
+    "budget": 100,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.031067200005054474,
+      "peak_mb": 4.59,
+      "output": "edge_int64_totals.15_solver.out",
+      "bytes": 3,
+      "compress_ns": 3,
+      "restore_ns": 3,
+      "cost": 9
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 9,
+      "bytes": 3,
+      "compress_ns": 3
+    },
+    "greedy_improvement_pct": 0.0,
+    "baseline": {
+      "status": "ok",
+      "seconds": 0.028395599976647645,
+      "peak_mb": 4.61,
+      "output": "edge_int64_totals.15_baseline.out",
+      "bytes": 3,
+      "compress_ns": 3,
+      "restore_ns": 3,
+      "cost": 9
+    },
+    "reference": {
+      "status": 0,
+      "cost": 9,
+      "tie_key": [
+        9,
+        3,
+        3,
+        3,
+        [
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    "tie_match": true,
+    "gap_pct": 0.0
+  },
+  {
+    "name": "edge_fixed_100k",
+    "group": "F",
+    "n": 100000,
+    "capacity": 100000,
+    "budget": 0,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.13669260003371164,
+      "peak_mb": 26.65,
+      "output": "edge_fixed_100k.15_solver.out",
+      "bytes": 100000,
+      "compress_ns": 0,
+      "restore_ns": 0,
+      "cost": 100000
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 100000,
+      "bytes": 100000,
+      "compress_ns": 0
+    },
+    "greedy_improvement_pct": 0.0
+  },
+  {
+    "name": "scale_B_200",
+    "group": "B",
+    "n": 200,
+    "capacity": 6086183,
+    "budget": 4084123,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.062299099983647466,
+      "peak_mb": 6.22,
+      "output": "scale_B_200.15_solver.out",
+      "bytes": 3921534,
+      "compress_ns": 4083772,
+      "restore_ns": 78458,
+      "cost": 1180543972
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 1824414238,
+      "bytes": 6075834,
+      "compress_ns": 1664038
+    },
+    "greedy_improvement_pct": 35.291889998942224,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.2300698999897577,
+      "peak_mb": 6.15,
+      "output": "scale_B_200.15_baseline.out"
+    }
+  },
+  {
+    "name": "scale_C_1000",
+    "group": "C",
+    "n": 1000,
+    "capacity": 39803158,
+    "budget": 10859678,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.06660650001140311,
+      "peak_mb": 7.3,
+      "output": "scale_C_1000.15_solver.out",
+      "bytes": 34697686,
+      "compress_ns": 10858219,
+      "restore_ns": 199477,
+      "cost": 7655680220
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 15334470420,
+      "bytes": 39801615,
+      "compress_ns": 4122265
+    },
+    "greedy_improvement_pct": 50.07535304241697,
+    "baseline": {
+      "status": "exit_2",
+      "seconds": 0.6927313000196591,
+      "peak_mb": 7.79,
+      "output": "scale_C_1000.15_baseline.out"
+    }
+  },
+  {
+    "name": "scale_D_10000",
+    "group": "D",
+    "n": 10000,
+    "capacity": 309289407,
+    "budget": 219955692,
+    "solver": {
+      "status": "ok",
+      "seconds": 0.2578848999692127,
+      "peak_mb": 26.07,
+      "output": "scale_D_10000.15_solver.out",
+      "bytes": 205480255,
+      "compress_ns": 219955666,
+      "restore_ns": 4204989,
+      "cost": 221496858167
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 325896781721,
+      "bytes": 309279851,
+      "compress_ns": 86365211
+    },
+    "greedy_improvement_pct": 32.0346592570456,
+    "baseline": {
+      "status": "timeout",
+      "seconds": 3,
+      "peak_mb": 22.86328125
+    }
+  },
+  {
+    "name": "scale_E_100000",
+    "group": "E",
+    "n": 100000,
+    "capacity": 3089964573,
+    "budget": 2179395007,
+    "solver": {
+      "status": "ok",
+      "seconds": 1.1622370000113733,
+      "peak_mb": 206.38,
+      "output": "scale_E_100000.15_solver.out",
+      "bytes": 2312653770,
+      "compress_ns": 2179394980,
+      "restore_ns": 41924883,
+      "cost": 747113283978
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 1099552257625,
+      "bytes": 3089945996,
+      "compress_ns": 857850661
+    },
+    "greedy_improvement_pct": 32.052953482016186,
+    "baseline": {
+      "status": "timeout",
+      "seconds": 3,
+      "peak_mb": 175.11328125
+    }
+  },
+  {
+    "name": "scale_F_100000",
+    "group": "F",
+    "n": 100000,
+    "capacity": 3884941297,
+    "budget": 1061258586,
+    "solver": {
+      "status": "ok",
+      "seconds": 1.1877545000170358,
+      "peak_mb": 206.37,
+      "output": "scale_F_100000.15_solver.out",
+      "bytes": 3833064541,
+      "compress_ns": 1061258538,
+      "restore_ns": 19918225,
+      "cost": 0
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 0,
+      "bytes": 3884922400,
+      "compress_ns": 480693891
+    },
+    "greedy_improvement_pct": 0.0,
+    "baseline": {
+      "status": "timeout",
+      "seconds": 3,
+      "peak_mb": 175.1328125
+    }
+  },
+  {
+    "name": "repeat_E_0",
+    "group": "E",
+    "n": 100000,
+    "capacity": 3089964573,
+    "budget": 2179395007,
+    "solver": {
+      "status": "ok",
+      "seconds": 1.0789241999736987,
+      "peak_mb": 206.35,
+      "output": "repeat_E_0.15_solver.out",
+      "bytes": 2312653770,
+      "compress_ns": 2179394980,
+      "restore_ns": 41924883,
+      "cost": 747113283978
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 1099552257625,
+      "bytes": 3089945996,
+      "compress_ns": 857850661
+    },
+    "greedy_improvement_pct": 32.052953482016186
+  },
+  {
+    "name": "repeat_E_1",
+    "group": "E",
+    "n": 100000,
+    "capacity": 3089964573,
+    "budget": 2179395007,
+    "solver": {
+      "status": "ok",
+      "seconds": 1.0547767999814823,
+      "peak_mb": 206.36,
+      "output": "repeat_E_1.15_solver.out",
+      "bytes": 2312653770,
+      "compress_ns": 2179394980,
+      "restore_ns": 41924883,
+      "cost": 747113283978
+    },
+    "greedy": {
+      "status": "ok",
+      "cost": 1099552257625,
+      "bytes": 3089945996,
+      "compress_ns": 857850661
+    },
+    "greedy_improvement_pct": 32.052953482016186
+  }
+]

@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.exe
+evaluation/*.txt
+evaluation/*.out
+evaluation/*.err

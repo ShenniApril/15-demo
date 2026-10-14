@@ -1,0 +1,382 @@
+[
+  {
+    "name": "stress_0",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.05184109997935593,
+      "peak_mb": 5.09,
+      "output": "stress_0.15_solver.out",
+      "bytes": 1007,
+      "compress_ns": 918,
+      "restore_ns": 1002,
+      "cost": 126105
+    },
+    "reference": {
+      "status": 0,
+      "cost": 125950,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.12306470821754664
+  },
+  {
+    "name": "stress_1",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04524030000902712,
+      "peak_mb": 5.04,
+      "output": "stress_1.15_solver.out",
+      "bytes": 1480,
+      "compress_ns": 683,
+      "restore_ns": 844,
+      "cost": 167673
+    },
+    "reference": {
+      "status": 0,
+      "cost": 167673,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "stress_2",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04471739998552948,
+      "peak_mb": 5.03,
+      "output": "stress_2.15_solver.out",
+      "bytes": 831,
+      "compress_ns": 1371,
+      "restore_ns": 1272,
+      "cost": 113444
+    },
+    "reference": {
+      "status": 0,
+      "cost": 113444,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "stress_3",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04392389999702573,
+      "peak_mb": 4.95,
+      "output": "stress_3.15_solver.out",
+      "bytes": 1771,
+      "compress_ns": 764,
+      "restore_ns": 442,
+      "cost": 7276
+    },
+    "reference": {
+      "status": 0,
+      "cost": 7152,
+      "mip_gap": 2.0742170099330736e-16
+    },
+    "gap_pct": 1.7337807606263982
+  },
+  {
+    "name": "stress_4",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.045177899999544024,
+      "peak_mb": 4.28,
+      "output": "stress_4.15_solver.out",
+      "bytes": 838,
+      "compress_ns": 1033,
+      "restore_ns": 1177,
+      "cost": 121305
+    },
+    "reference": {
+      "status": 0,
+      "cost": 120922,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.31673310067646915
+  },
+  {
+    "name": "stress_5",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04659159999573603,
+      "peak_mb": 5.04,
+      "output": "stress_5.15_solver.out",
+      "bytes": 1972,
+      "compress_ns": 908,
+      "restore_ns": 397,
+      "cost": 7225
+    },
+    "reference": {
+      "status": 0,
+      "cost": 7203,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.30542829376648617
+  },
+  {
+    "name": "stress_6",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04791790002491325,
+      "peak_mb": 4.96,
+      "output": "stress_6.15_solver.out",
+      "bytes": 1684,
+      "compress_ns": 905,
+      "restore_ns": 298,
+      "cost": 21639
+    },
+    "reference": {
+      "status": 0,
+      "cost": 21639,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "stress_7",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04622170003131032,
+      "peak_mb": 4.77,
+      "output": "stress_7.15_solver.out",
+      "bytes": 784,
+      "compress_ns": 968,
+      "restore_ns": 1197,
+      "cost": 113893
+    },
+    "reference": {
+      "status": 0,
+      "cost": 112614,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 1.135738007707745
+  },
+  {
+    "name": "stress_8",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.045623800018802285,
+      "peak_mb": 4.88,
+      "output": "stress_8.15_solver.out",
+      "bytes": 1906,
+      "compress_ns": 638,
+      "restore_ns": 502,
+      "cost": 26953
+    },
+    "reference": {
+      "status": 0,
+      "cost": 25476,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 5.797613440100487
+  },
+  {
+    "name": "stress_9",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04381890001241118,
+      "peak_mb": 5.21,
+      "output": "stress_9.15_solver.out",
+      "bytes": 1024,
+      "compress_ns": 1017,
+      "restore_ns": 1073,
+      "cost": 132990
+    },
+    "reference": {
+      "status": 0,
+      "cost": 132663,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.24648922457655864
+  },
+  {
+    "name": "stress_10",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.047140899987425655,
+      "peak_mb": 5.02,
+      "output": "stress_10.15_solver.out",
+      "bytes": 1667,
+      "compress_ns": 961,
+      "restore_ns": 300,
+      "cost": 21379
+    },
+    "reference": {
+      "status": 0,
+      "cost": 21379,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "stress_11",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04445000004488975,
+      "peak_mb": 4.95,
+      "output": "stress_11.15_solver.out",
+      "bytes": 1832,
+      "compress_ns": 521,
+      "restore_ns": 477,
+      "cost": 6791
+    },
+    "reference": {
+      "status": 0,
+      "cost": 6617,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 2.629590448843887
+  },
+  {
+    "name": "stress_12",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04278979997616261,
+      "peak_mb": 4.29,
+      "output": "stress_12.15_solver.out",
+      "bytes": 1569,
+      "compress_ns": 923,
+      "restore_ns": 450,
+      "cost": 21853
+    },
+    "reference": {
+      "status": 0,
+      "cost": 21853,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "stress_13",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.0446487000444904,
+      "peak_mb": 5.36,
+      "output": "stress_13.15_solver.out",
+      "bytes": 2500,
+      "compress_ns": 231,
+      "restore_ns": 138,
+      "cost": 3620
+    },
+    "reference": {
+      "status": 0,
+      "cost": 3607,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.36041031327973383
+  },
+  {
+    "name": "stress_14",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04279949999181554,
+      "peak_mb": 5.21,
+      "output": "stress_14.15_solver.out",
+      "bytes": 678,
+      "compress_ns": 1174,
+      "restore_ns": 1433,
+      "cost": 104049
+    },
+    "reference": {
+      "status": 0,
+      "cost": 104049,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "stress_15",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.0485507000121288,
+      "peak_mb": 5.02,
+      "output": "stress_15.15_solver.out",
+      "bytes": 2065,
+      "compress_ns": 662,
+      "restore_ns": 246,
+      "cost": 4789
+    },
+    "reference": {
+      "status": 0,
+      "cost": 4789,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "stress_16",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04755380004644394,
+      "peak_mb": 4.39,
+      "output": "stress_16.15_solver.out",
+      "bytes": 1950,
+      "compress_ns": 767,
+      "restore_ns": 299,
+      "cost": 6017
+    },
+    "reference": {
+      "status": 0,
+      "cost": 5865,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 2.5916453537936914
+  },
+  {
+    "name": "stress_17",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04480019997572526,
+      "peak_mb": 4.64,
+      "output": "stress_17.15_solver.out",
+      "bytes": 1825,
+      "compress_ns": 941,
+      "restore_ns": 396,
+      "cost": 25215
+    },
+    "reference": {
+      "status": 0,
+      "cost": 25019,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.7834046124945042
+  },
+  {
+    "name": "stress_18",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.04758000001311302,
+      "peak_mb": 4.07,
+      "output": "stress_18.15_solver.out",
+      "bytes": 2042,
+      "compress_ns": 564,
+      "restore_ns": 321,
+      "cost": 24685
+    },
+    "reference": {
+      "status": 0,
+      "cost": 24685,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  },
+  {
+    "name": "stress_19",
+    "solver": {
+      "status": "ok",
+      "seconds": 0.0470365000073798,
+      "peak_mb": 3.58,
+      "output": "stress_19.15_solver.out",
+      "bytes": 1786,
+      "compress_ns": 613,
+      "restore_ns": 472,
+      "cost": 23610
+    },
+    "reference": {
+      "status": 0,
+      "cost": 23610,
+      "mip_gap": 0.0
+    },
+    "gap_pct": 0.0
+  }
+]
